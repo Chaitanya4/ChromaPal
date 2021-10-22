@@ -1,0 +1,20 @@
+{
+  "name": "ChromaPal",
+  "version": "1.8",
+  "manifest_version": 2,
+  "description": " Optimizing any web page according to the type of color blindness faced by the user",
+  "homepage_url": "https://github.com/oftheheadland",
+  "icons": {
+    "16": "assets/images/visioni.png",
+    "48": "assets/images/visioni.png",
+    "128": "assets/images/visioni.png"
+  },
+  "browser_action": {
+    "default_title": "ChromaPal",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
