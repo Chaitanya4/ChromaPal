@@ -9,4 +9,4 @@ All the content including images, texts, buttons and backgrounds are automatical
 ## Instructions to install ChromaPal Chrome Extension on your local browser:
 1. Visit chrome://extensions to open the extension manager. Open the Developer mode.
 2. Click the Load unpacked extension button. A file dialog appears.
-3. In the file dialog, choose the ChromaPal(Directory containing manifest.json) directory. Unless you get an error dialog, you've now installed the app.
+3. In the file dialog, choose the ChromaPal (Directory containing manifest.json) directory. Unless you get an error dialog, you've now installed the app.
